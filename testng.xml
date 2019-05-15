@@ -1,0 +1,12 @@
+<suite name="APITest">
+
+    <test name="APITest" allow-return-values="true">
+
+        <classes>
+
+            <class name="com.apitest.Segment.UserTest"/>
+        </classes>
+
+    </test>
+
+</suite>

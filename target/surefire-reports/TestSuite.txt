@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 11.561 s <<< FAILURE! - in TestSuite
+getUserDetail(com.apitest.Segment.UserTest)  Time elapsed: 0.903 s  <<< FAILURE!
+java.lang.AssertionError: expected [200] but found [404]
+	at com.apitest.Segment.UserTest.getUserDetail(UserTest.java:65)
+
+getUserDetail(com.apitest.Segment.UserTest)  Time elapsed: 0.521 s  <<< FAILURE!
+java.lang.AssertionError: expected [200] but found [404]
+	at com.apitest.Segment.UserTest.getUserDetail(UserTest.java:65)
+
